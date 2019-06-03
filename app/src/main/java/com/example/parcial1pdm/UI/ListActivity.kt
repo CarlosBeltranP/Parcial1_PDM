@@ -1,7 +1,8 @@
-package com.example.parcial1pdm
+package com.example.parcial1pdm.UI
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.parcial1pdm.R
 
 class ListActivity : AppCompatActivity() {
 
